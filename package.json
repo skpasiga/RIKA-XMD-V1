@@ -1,12 +1,12 @@
 {
-  "name": "RIKA-XMD",
+  "name": "MADUVA-XMD",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By SHAMIKA",
+  "description": "A WhatsApp Bot Created By MADUSHANKA",
   "main": "rika-md.js",
   "scripts": {
-    "start": "pm2 start rika-md.js --deep-monitoring --attach --name RIKA-XMD",
-    "stop": "pm2 stop RIKA-XMD",
-    "restart": "pm2 restart RIKA-XMD"
+    "start": "pm2 start rika-md.js --deep-monitoring --attach --name MADUVA-XMD",
+    "stop": "pm2 stop MADUVA-XMD",
+    "restart": "pm2 restart MADUVA-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
