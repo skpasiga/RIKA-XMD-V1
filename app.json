@@ -1,8 +1,8 @@
 {
-  "name": "RIKA-XMD",
-  "description": "Rika WhatsApp bot made by Shamika Denuwan",
-  "logo": "https://files.catbox.moe/4wxv3u.jpg",
-  "keywords": ["bot / Rika"],
+  "name": "MADUVA-XMD",
+  "description": "MADUVA WhatsApp bot made by MADUSHANKA",
+  "logo": "https://files.catbox.moe/4obw8x.jpg",
+  "keywords": ["bot / MADUVA"],
   "success_url": "/",
 
   "env": {
